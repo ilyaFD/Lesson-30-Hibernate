@@ -1,0 +1,31 @@
+```gitignore
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+.kotlin
+
+# Maven
+**/target/
+
+# Compiled files
+*.class
+
+# Other IDEs
+.vscode/
+.classpath
+.project
+.settings/
+.factorypath
+.apt_generated
+bin/
+.gradle/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+```
